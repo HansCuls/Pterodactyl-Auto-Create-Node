@@ -27,6 +27,7 @@ bash <(curl -s https://raw.githubusercontent.com/HansCuls/repo/createnode.sh)
 | Debian           | 12      | ✅        |
 
 > *Hanya OS yang sudah saya uji coba. OS lainnya bisa dicoba sendiri.*
+
 > *Only the OS I have tested. You can try other OS*
 ---
 
