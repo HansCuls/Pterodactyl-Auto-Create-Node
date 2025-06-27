@@ -34,3 +34,4 @@ bash <(curl -s https://raw.githubusercontent.com/HansCuls/Pterodactyl-Auto-Creat
 ## 🧾 Credits
 
 - Created by [HansCuls](https://github.com/HansCuls)
+- Support Channel [Enzoxavier](https://whatsapp.com/channel/0029VawjME90bIdmb6KiSB1n)
