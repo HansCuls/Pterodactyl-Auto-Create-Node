@@ -4,7 +4,7 @@
 ## 🔧 Command Install
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/HansCuls/Pterodactyl-Auto-Create-Node/createnodepro.sh)
+bash <(curl -s https://raw.githubusercontent.com/HansCuls/Pterodactyl-Auto-Create-Node/main/createnodepro.sh)
 ```
 
 ---
